@@ -1,0 +1,29 @@
+img {
+  width: 100%;
+}
+.photo-container {
+  width: 30%;
+}
+.container-frame {
+  padding: 5%;
+}
+.textabout {
+  padding: 5%;
+  text-align: justify;
+  font-family: 'Lato', sans-serif;
+  font-size: larger;
+  color: #0e4c80;
+}
+h1 {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: xx-large;
+}
+h2 {
+  text-align: justify;
+  font-family: 'Lato', sans-serif;
+}
+
+.skills {
+  width: 70%;
+}
